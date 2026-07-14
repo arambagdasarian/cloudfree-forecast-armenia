@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the accompanying paper."
+title: "Cloud-Free Imaging Probability Forecasting for Optical Earth-Observation Tasking over Armenia"
+authors:
+  - family-names: Avasapian
+    given-names: Isabella
+    affiliation: Teevial
+date-released: 2026-06-29
+license: MIT
+keywords:
+  - earth observation
+  - satellite tasking
+  - cloud forecasting
+  - Sentinel-2
+  - ERA5
+  - gradient boosting
+repository-code: "https://github.com/arambagdasarian/teevial_isabella"
